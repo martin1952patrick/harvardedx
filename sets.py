@@ -13,3 +13,7 @@ print(s)
 
 # to remove element
 # s.remove(4)
+
+# to know the number of elements in the set
+
+print({len(s)})
